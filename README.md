@@ -7,6 +7,6 @@ A web app to track spending by category with filtering and graphs
 - **Frontend:** HTML, CSS
 
 ## Status: Work in Progress
-- [x] Basic CRUD functionality (Add/Delete expenses)
+- [ ] Basic CRUD functionality (Add/Delete expenses)
 - [ ] Add data visualization (Charts)
 - [ ] Add user authentication
